@@ -1,0 +1,6 @@
+name: EntityHealthBar
+version: 1.0
+main: de.lx.entityhealthbar.EntityHealthBarPlugin
+author: "LX__"
+description: Health bars using nametags
+depend: [EntityTags]
